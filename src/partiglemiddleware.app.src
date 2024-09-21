@@ -1,5 +1,5 @@
-{application, someapp, [
-    {description, "An OTP library"},
+{application, partiglemiddleware, [
+    {description, "Gleam Atom Erlang Middleware"},
     {vsn, "0.1.0"},
     {registered, []},
     {applications, [

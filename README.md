@@ -1,7 +1,7 @@
-# someapp
+# Partigle (AtomVM experiments)
 
-Welcome to the someapp AtomVM application.
+## Run
 
-To build and flash this application to your ESP32 device, issue the `esp32_flash` target
-
-    shell$ rebar3 esp32_flash
+```sh
+    rebar3 esp32_flash
+```

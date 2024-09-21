@@ -14,9 +14,9 @@
 %% See the License for the specific language governing permissions and
 %% limitations under the License.
 %%
--module(someapp).
+-module(partiglemiddleware).
 
 -export([start/0]).
 
 start() ->
-    internalapp:main().
+    partigle:main().

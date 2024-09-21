@@ -1,4 +1,4 @@
-name = "internalapp"
+name = "partigle"
 version = "0.1.0"
 description = "A Gleam project"
 
@@ -10,8 +10,8 @@ description = "A Gleam project"
 # links = [{ title = "Website", href = "https://gleam.run" }]
 
 [dependencies]
-gleam_stdlib = "~> 0.28"
-gleam_erlang = "~> 0.19"
+gleam_stdlib = "~> 0.40"
+gleam_erlang = "~> 0.26"
 
 [dev-dependencies]
 #gleeunit = "~> 0.10"
